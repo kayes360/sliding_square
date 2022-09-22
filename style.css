@@ -1,0 +1,82 @@
+
+.parent{
+    height: 100vh;
+}
+.box_main{ 
+    width: 350px;
+    height: 350px;
+    position: relative;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;  
+    position: absolute;  
+}
+.bg_white{
+    background-color: #ffffff;  
+}
+.bg_dark_purple{
+    background-color: #392947;  
+}
+.bg_dark_blue{
+    background-color: #131372; 
+}
+.bg_light_torquise{
+    background-color: #66dbff;   
+}
+.bg_light_green{
+    background-color: #00865e;     
+}
+.bg_dark_green{
+    background-color: #1ba100;
+}
+.bg_green{
+    background-color: #73ff00;  
+}
+.bg_lime{
+    background-color: #e7f706;
+}
+.bg_red{
+    background-color: #db2c00;  
+}
+.bg_purple{
+    background-color: #f700ff;  
+}
+.box_one{    
+    top: 0;
+    left: 0;  
+}
+.box_two{    
+    top: 0;
+    left: 33%;    
+}
+.box_three{    
+    top: 0;
+    right: 0;  
+}
+.box_four{    
+    top: 33%;
+    left: 0;
+}
+.box_five{    
+    top: 33%;
+    left: 33%;    
+}
+.box_six{        
+    top: 33%;
+    right: 0;
+}
+.box_seven{    
+    bottom: 0;
+    left: 0;     
+}
+.box_eight{    
+    bottom: 0;
+    right: 33%; 
+}
+ 
+.box_nine{    
+    bottom: 0;
+    right: 0;   
+}
